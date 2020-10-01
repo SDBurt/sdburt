@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on my portfolio website found at https://quizzical-darwin-90b565.netlify.app/
-🌱 I’m currently learning to type faster (currently 60-80 wpm avg), code with ReactJS more efficiently (finished a udemy course), and FPS aiming with FPS aim trainers (Kovaaks is pretty cool)
-📫 How to reach me: email me at seandburt@gmail.com. I am happy to answer any questions.
+- 🔭 I’m currently working on my portfolio website found at https://quizzical-darwin-90b565.netlify.app/
+- 🌱 I’m currently learning to type faster (currently 60-80 wpm avg), code with ReactJS more efficiently (finished a udemy course), and FPS aiming with FPS aim trainers (Kovaaks is pretty cool)
+- 📫 How to reach me: email me at seandburt@gmail.com. I am happy to answer any questions.
 
 <!--
 **SDBurt/sdburt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
