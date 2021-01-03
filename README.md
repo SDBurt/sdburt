@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on web based projects such as my portfolio website (https://sdburt.netlify.app/) and a Reddit clone with Nextjs
-- 🌱 I’m currently learning to type faster (currently 75 wpm avg.), code with ReactJS more efficiently (finished a udemy course), and FPS aiming with FPS aim trainers (Kovaaks is pretty cool)
+- 🔭 I’m currently working on web-based projects.
+- 🌱 I’m currently learning aspects of front-end design and animation, and improving my SQL knowledge.
 - 📫 How to reach me: email me at seandburt(at)gmail.com. I am happy to answer any questions.
 
 <!--
