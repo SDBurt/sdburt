@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on web-based projects.
-- 🌱 I’m currently learning aspects of front-end design and animation, and improving my SQL knowledge.
+- 🔭 I’m currently working on web-based projects, mainly Readit (see [code](https://github.com/SDBurt/readit)).
+- 🌱 I’m currently learning a range of topics, from web development to art.
+  - TypeScript, TailwindCSS, TypeORM, PostgreSQL though Readit.
+  - MySQL through the "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert" course on Udemy (currently 8/10th through as of Jan 13th, 2021).
+  - Procreate and art.
+  - 3D design with Blender.
+  - 3D web components with ThreeJs
+  - Machine learning topics with Kaggle
 - 📫 How to reach me: email me at seandburt(at)gmail.com. I am happy to answer any questions.
 
 <!--
