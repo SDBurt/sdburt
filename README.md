@@ -2,7 +2,12 @@
 
 💬 About me:
 
-My name is Sean (he/him) and I am a B.SE graduate from The University of Victoria. I enjoy working on web development and data science projects, and work as a software developer at Hummingbird Drones.
+My name is Sean (he/him) and I am a B.SE graduate from The University of Victoria. I enjoy working on web development and data science projects. Some of my current projects / learning paths are:
+
+- [Unreal Engine 5 C++ Multiplayer Shooter](https://www.udemy.com/course/unreal-engine-5-cpp-multiplayer-shooter)
+- [Statistics for Data Science and Business Analysis](https://www.udemy.com/course/statistics-for-data-science-and-business-analysis/)
+- [Functional Programming For Beginners With JavaScript](https://www.udemy.com/course/functional-programming-for-beginners-with-javascript/) (I'm not a beginner, but I think I can still learn something from this)
+- [ThreeJS Journey](https://threejs-journey.com/)
 
 ---
 
