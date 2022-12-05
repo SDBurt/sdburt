@@ -2,7 +2,7 @@
 
 💬 About me:
 
-My name is Sean (he/him) and I am a B.SE graduate from The University of Victoria. I enjoy working on web development and data science projects. Some of my current projects / learning paths are:
+My name is Sean (he/him) and I am a B.SE graduate from The University of Victoria. I enjoy working on web development, data science, and machine learning projects. Some of my current projects / learning paths are:
 
 - [Unreal Engine 5 C++ Multiplayer Shooter](https://www.udemy.com/course/unreal-engine-5-cpp-multiplayer-shooter)
 - [Statistics for Data Science and Business Analysis](https://www.udemy.com/course/statistics-for-data-science-and-business-analysis/)
